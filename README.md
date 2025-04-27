@@ -16,7 +16,7 @@
  
  
  ### ● IDE and text editor
- [![IDE](https://skillicons.dev/icons?i=vscode,pycharm,idea)](https://skillicons.dev)
+ [![IDE](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
  
  ### ● Future
  [![HTML;CSS;js](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
